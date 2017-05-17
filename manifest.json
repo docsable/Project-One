@@ -1,0 +1,16 @@
+{
+  "name": "Mon application",
+  "description": "Une aplication ou tu te connecte",
+  "launch_path": "/",
+  "icons": {
+    "src": "img/icone-128.jpg",
+    "type" :"image/jpg",
+          "sizes": "48x48",
+  },
+  "developer": {
+    "name": "Dan tv",
+    "url": "http://votre-site-web.org"
+
+  },
+  "default_locale": "fr"
+}
